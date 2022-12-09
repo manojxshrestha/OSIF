@@ -1,4 +1,4 @@
-# Open Source Facebook Information Gathering Tool
+# Open Source Information Facebook
 
 OSIF is an accurate facebook account information gathering tool, all sensitive information can be easily gathered even though the target converts all their privacy settings to (only me).
 
