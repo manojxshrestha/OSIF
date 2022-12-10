@@ -53,9 +53,31 @@ Enter the command token
 
 ![1583987305198](https://user-images.githubusercontent.com/106522935/206839884-a4419bf8-0a7d-4829-9834-c3dde8c9e129.jpeg)
 
-After that enter your Facebook Username and Password. 
+After that enter your Facebook Username and Password. It establish the connection with your Profile and generate the connection token, if the username and password are correct.
 
 ![1583987369153](https://user-images.githubusercontent.com/106522935/206840172-2da543a0-a5bc-42c3-a75a-54cd2fc7a481.jpeg)
 
+The token will be successfully generate the access token and it will stored in the cookie/token.log file.
 
-It establish the connection with your Profile and generate the connection token, if the username and password are correct.
+![1583987389493](https://user-images.githubusercontent.com/106522935/206840251-05d462e4-71f3-4020-bd86-0232a93ff2e5.jpeg)
+
+     $ python2 osif.py
+
+*to get back to the OSIF framework*
+
+![1583987266101-01](https://user-images.githubusercontent.com/106522935/206840327-d8861fd0-41df-45be-a5d5-70720f16d1fd.jpeg)
+
+Note:Now it will show the account name which you have logged in earlier.It means that we are on the victim's account and we are ready to exploit.
+
+     $ help
+
+![1583987432831 (1)](https://user-images.githubusercontent.com/106522935/206840358-f7a681d3-7048-4831-a410-2ccb2ebb07bd.jpeg)
+
+     D3b2y >> dump_phone
+
+Note: “dump_phone” command fetches all the contact number of the victim’s Facebook friends.
+
+![1583987453297](https://user-images.githubusercontent.com/106522935/206840408-85fa1cd3-f47b-462b-a782-a1bcdaa05c77.jpeg)
+
+
+
