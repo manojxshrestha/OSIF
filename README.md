@@ -8,4 +8,6 @@ OSIF is an accurate Facebook account information gathering tool. It can gather a
 
 # Installation
 
-Open Terminal in Kali Linux
+     $ git clone https://github.com/ciku370/OSIF
+     
+![1583987195541](https://user-images.githubusercontent.com/106522935/206838285-29183c67-70b9-45a8-8b63-cffbd9e9a581.jpeg)
