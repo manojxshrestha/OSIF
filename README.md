@@ -1,5 +1,6 @@
 # OSIF
-![1583987266101](https://user-images.githubusercontent.com/106522935/206838144-4c5c1bc8-29e3-4ed8-9e2b-54ffbf347662.jpeg)
+
+![1583987266101-01](https://user-images.githubusercontent.com/106522935/206839341-4dfe46fd-d09a-4452-afc5-a2b2d68a7d69.jpeg)
 
 
 # Introduction 
@@ -26,6 +27,13 @@ Now, we must fulfil some requirements, for that hit the following command. Becau
 
 ![1583987234537](https://user-images.githubusercontent.com/106522935/206838645-0d64d729-bd2a-4cc4-982a-94b11e9ef320.jpeg)
 
+     $ ls
+     $ chmod +x osif.py
 
+![1583987254043](https://user-images.githubusercontent.com/106522935/206839234-d0240ab7-99f5-4c3f-b0f5-d4ad9be96fd5.jpeg)
 
+Note: “chmod +x” command on a file (osif.py) only means, that you will make it executable.After the command,you can see the osif.py have changed colour to green.It means it Is executabe. And then,
 
+     $ python2 osif.py
+
+![1583987266101-01](https://user-images.githubusercontent.com/106522935/206839321-0df553bc-41e5-4f2f-a01a-1b78497f3346.jpeg)
