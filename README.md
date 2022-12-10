@@ -79,5 +79,25 @@ Note: “dump_phone” command fetches all the contact number of the victim’s 
 
 ![1583987453297](https://user-images.githubusercontent.com/106522935/206840408-85fa1cd3-f47b-462b-a782-a1bcdaa05c77.jpeg)
 
+     D3b2y >> dump_id
+
+Note: “dump_id” command fetches all Facebook ID’s of the victim’s Facebook.It will later save it as text file in OSIF folder.
+
+![1583987472409](https://user-images.githubusercontent.com/106522935/206840804-4997585d-7cf9-4720-9041-7ff7369827cb.jpeg)
+.
+.
 
 
+![1583987484083](https://user-images.githubusercontent.com/106522935/206840843-08a5792a-76e0-4143-900b-fbc4c2313227.jpeg)
+.
+.
+![1583987496105](https://user-images.githubusercontent.com/106522935/206840857-82cafde7-6d98-4757-8542-386871cd903d.jpeg)
+
+Below screen capture shows the facebook ID’s fetched by OSIF tool.
+
+![1583987510418](https://user-images.githubusercontent.com/106522935/206840870-9745da2d-2ea8-4d88-b4f9-d9616dd999ca.jpeg)
+
+
+# Conclusion
+
+From this lab, we can see that how advanced is the OSIF tool is. It makes a hacker’s life easier where the hacker enumerates all the information’s just be clicking one command. When using social network, make sure you don’t post personal information’s.
