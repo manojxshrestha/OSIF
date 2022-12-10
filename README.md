@@ -37,3 +37,20 @@ Note: “chmod +x” command on a file (osif.py) only means, that you will make 
      $ python2 osif.py
 
 ![1583987266101-01](https://user-images.githubusercontent.com/106522935/206839321-0df553bc-41e5-4f2f-a01a-1b78497f3346.jpeg)
+
+# Exploitation
+
+     D3b2y >> help
+
+![1583987285444](https://user-images.githubusercontent.com/106522935/206839824-7e489fbf-0bce-4d53-a68f-777c06b079a4.jpeg)
+
+Note: “help” command helps to list what are all the exploits can be done in OSIF.
+*make sure your Facebook do not have the 2-way authentication * And then
+
+Enter the command token 
+
+     D3b2y >> token
+
+![1583987305198](https://user-images.githubusercontent.com/106522935/206839884-a4419bf8-0a7d-4829-9834-c3dde8c9e129.jpeg)
+
+
